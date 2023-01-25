@@ -1,1 +1,2 @@
 # Mapping_Earthquakes
+The goal of this project is to use what we know about JavaScript to pull various levels of data from the internet to map earthquakes in a variety of ways. We use all earthquakes last 7 days as well as major earthquakes, which I have provided in purples. The last is to provide 3 types of maps for the project, with normal, satellite, and dark being the choices
